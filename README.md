@@ -1,13 +1,4 @@
-# Final Project
-## Due: 04/30/2023 11:59pm ET
-
-## Note: A crucial aspect of this project involves submitting a part of the project to GRADESCOPE.
-
-Up until now, we have given you fairly detailed instructions for how to design data analyses to answer specific questions about data -- in particular, how to set up a particular analysis and what steps to take to run it. In this project, you will put that knowledge to use!
-
-Put yourself in the shoes of a data scientist being given a data set and asked to draw conclusions from it. Your job will be to understand what the data is showing you, design the analyses you need, justify those choices, draw conclusions from running the analyses, and explain why they do (or do not) make sense.
-
-We are deliberately not giving you detailed directions on how to solve these problems, but feel free to come to office hours to brainstorm.
+# Python Captsone Project
 
 ## Objectives
 
@@ -16,25 +7,6 @@ There are three possible paths through this project:
 1. You may use data set #1, which captures information about student behavior and performance in an online course. See below for the analysis questions we want you to answer.
 2. You may use data set #2, which captures information about bike usage in New York City. See below for the analysis questions we want you to answer.
 3. You may use data set #3, which are images of digits. See below for the analysis questions we want you to answer.
-
-## Partners
-
-On this project **you may work with one partner** (from the same section). Working with a partner is optional, and working with a partner will not impact how the project is graded. If you want to work with a partner, it is your responsibility to pair up; feel free to use Piazza's "Search for Teammates" feature (https://support.piazza.com/support/solutions/articles/48001158117-search-for-teammates) to facilitate this.
-
-If you are working with a partner. This means that only one of the team lead (one of the two members), will have to submit the completed code (on GitHub) and the PDF report (on GitHub and Gradescope). 
-
-Moreover, to collaboratively work on this project the team-lead could add the other member as a collaborator to his/her repository. You can check the following link on how to add collaborators to your repository
- https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
-
-Important Points:
-
-1. The group leader will be in charge of pushing the last version of the project to his/her repository. 
-
-2. If you choose to work alone, you will be in charge of your own project and act as the leader of your own group.
-
-3. The version on the leader's GitHub account will be used for grading. 
-
-4. The people who will lead their teams (including those who will work alone) are asked to fill out a form to provide information about their team. Here's the link to the form: https://forms.gle/ytT2u8eGukddJ9XA9 .
 
 ## Path 1: Student performance related to video-watching behavior
 
